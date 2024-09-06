@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ListPreference
+        android:title="@string/color_mode_title"
+        android:key="@string/color_mode_key"
+        android:entries="@array/color_mode_entries"
+        android:entryValues="@array/color_mode_values"
+        android:defaultValue="@string/color_mode_default"
+        android:dialogTitle="@string/color_mode_title"
+        app:useSimpleSummaryProvider="true"/>
+
+</PreferenceScreen>

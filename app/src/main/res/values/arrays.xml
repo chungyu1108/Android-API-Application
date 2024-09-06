@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_mode_entries">
+        <item>@string/light_mode_entry</item>
+        <item>@string/dark_mode_entry</item>
+    </string-array>
+
+    <string-array name="color_mode_values">
+        <item>@string/color_mode_val_light</item>
+        <item>@string/color_mode_val_dark</item>
+    </string-array>
+</resources>

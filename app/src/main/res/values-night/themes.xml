@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Override attributes for the dark theme. Use the same style name as in values/themes.xml -->
+    <style name="Theme.Steamgameexplorer" parent="Theme.MaterialComponents.DayNight">
+        <!-- Primary brand color for dark theme -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <!-- Secondary brand color for dark theme -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar color for dark theme -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+        <!-- Add more overrides for dark theme here as needed -->
+    </style>
+</resources>

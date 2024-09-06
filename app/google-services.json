@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510496554443",
+    "project_id": "steamandroid-6a516",
+    "storage_bucket": "steamandroid-6a516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510496554443:android:2db713dfce8be4177a4a4e",
+        "android_client_info": {
+          "package_name": "com.example.steamgameexplorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510496554443-8e07shds2v9vb9t2viq27l593hf6hle0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6XQABPzcguvgYKy5mqVGyqe9sTYoDE_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510496554443-8e07shds2v9vb9t2viq27l593hf6hle0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
